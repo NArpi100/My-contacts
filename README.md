@@ -1,4 +1,3 @@
-<html>
 <head>
   <title> My Contacts </title>
   <style>
@@ -33,4 +32,4 @@
 </form>
 
   </body>
-    </html>
+    
